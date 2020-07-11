@@ -1,2 +1,4 @@
 # LLUBot
-Final degree project of the Electronic Industrial and Automatic (almost) Engineer Luisana Lara.
+Final degree project of the Electronic Industrial and Automatic (almost) Engineer Luisana Lara: Coding part.
+
+In this repository there are uploaded the most recent useful codes for the explanation of programming area in the bachelor thesis.
